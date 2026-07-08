@@ -1,6 +1,8 @@
 // Importa la librería mariadb
 const mariadb = require("mariadb");
 
+// Cambiar el usuario y la contraseña según la configuración local de MariaDB.
+
 // Crea el pool de conexiones
 const pool = mariadb.createPool({
     host: "localhost",

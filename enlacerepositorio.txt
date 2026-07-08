@@ -1,0 +1,4 @@
+Repositorio GitHub:
+https://github.com/TU_USUARIO/LoginAPI
+
+Para consultar las instrucciones de instalación y uso del proyecto, revisar el archivo README.md incluido en el repositorio.
